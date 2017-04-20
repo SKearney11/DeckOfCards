@@ -22,3 +22,4 @@ string Card::getSuit()
 {
     return m_Suit;
 }
+ 

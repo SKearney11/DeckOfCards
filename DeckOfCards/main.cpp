@@ -29,7 +29,7 @@ void mainMenu(int input){
     
     while (input != 0)
     {
-        switch (input) {
+        switch (input) { 
             case 1:
                 shuffle(myDeck);
                 cout << "Deck has been shuffled." << endl;

@@ -19,7 +19,7 @@ public:
     Deck();
     ~Deck();
     vector<Card> cardDeck;
-};
+}; 
 
 int printMenu();
 void mainMenu(int input);

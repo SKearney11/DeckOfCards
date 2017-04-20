@@ -25,6 +25,6 @@ private:
     int m_Number;
     string m_Suit;
 };
-
+ 
 
 #endif /* Card.hpp */
